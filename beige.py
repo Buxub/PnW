@@ -1,4 +1,10 @@
+#think this works except I cannot remember why i made it
+
+
+
 from datetime import datetime, timedelta
+#datetime is part of python3
+
 
 class Beige:
 
