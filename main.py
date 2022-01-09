@@ -1,3 +1,5 @@
+#this works 100% was tested jan 8 2022
+
 from datetime import datetime, timedelta
 #from beige import Beige
 
@@ -24,7 +26,7 @@ print(outOfBeige)
 
 
 
-#land
+#land (not relevant to above)
 moneyAvailable = 2,327,183.43
 currentLand = 3000.0
 
